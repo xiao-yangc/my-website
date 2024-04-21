@@ -35,8 +35,7 @@ interests:
 
 # Education to show in About widget
 education:
-  Empty
-
+  2023:Enter Nankai University
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
