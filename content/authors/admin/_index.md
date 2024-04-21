@@ -10,7 +10,7 @@ first_name: Yunhao
 last_name: Gu
 
 # Status emoji
-status: Rest in chaos
+status: ma
   icon: 😸
 
 # Is this the primary user of the site?
