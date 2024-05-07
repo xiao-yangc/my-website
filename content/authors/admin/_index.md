@@ -11,7 +11,7 @@ last_name: Gu
 
 # Status emoji
 status: 
-  icon: 😸
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,12 +48,12 @@ skills:
         icon_pack: devicon
       - name: C++
         description: 'Reletively Normal'
-        percent: 60
+        percent: 30
         icon: cplusplus
         icon_pack: devicon
       - name: Advanced Mathematics
         description: 'Maybe good'
-        percent: 80
+        percent: 30
         icon: academic-cap
         icon_pack: hero
   - name: Hobbies
@@ -62,17 +62,17 @@ skills:
     items:
       - name: Badminton
         description: ''
-        percent: 80
+        percent: 40
         icon: badminton
         icon_pack: fas
       - name: Computer Games
         description: ''
-        percent: 90
+        percent: 30
         icon: gamepad
         icon_pack: fas
       - name: Films
         description: ''
-        percent: 50
+        percent: 20
         icon: film
         icon_pack: fas
 
