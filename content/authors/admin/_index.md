@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 顾云浩
+title: Gu Yunhao
 
 # Name pronunciation (optional)
 name_pronunciation: 
